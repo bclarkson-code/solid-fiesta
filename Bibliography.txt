@@ -1,0 +1,32 @@
+@article{Silver2018AGR,
+  title={A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play},
+  author={David Silver and Thomas Hubert and Julian Schrittwieser and Ioannis Antonoglou and Matthew Lai and Arthur Guez and Marc Lanctot and Laurent Sifre and Dharshan Kumaran and Thore Graepel and Timothy P. Lillicrap and Karen Simonyan and Demis Hassabis},
+  journal={Science},
+  year={2018},
+  volume={362},
+  pages={1140-1144}
+}
+@article{Silver2016MasteringTG,
+  title={Mastering the game of Go with deep neural networks and tree search},
+  author={David Silver and Aja Huang and Chris J. Maddison and Arthur Guez and Laurent Sifre and George van den Driessche and Julian Schrittwieser and Ioannis Antonoglou and Vedavyas Panneershelvam and Marc Lanctot and Sander Dieleman and Dominik Grewe and John Nham and Nal Kalchbrenner and Ilya Sutskever and Timothy P. Lillicrap and Madeleine Leach and Koray Kavukcuoglu and Thore Graepel and Demis Hassabis},
+  journal={Nature},
+  year={2016},
+  volume={529},
+  pages={484-489}
+}
+@INPROCEEDINGS{Kocsis06banditbased,
+    author = {Levente Kocsis and Csaba Szepesvári},
+    title = {Bandit based Monte-Carlo Planning},
+    booktitle = {In: ECML-06. Number 4212 in LNCS},
+    year = {2006},
+    pages = {282--293},
+    publisher = {Springer}
+}
+@inproceedings{chaslot2008parallel,
+  title={Parallel monte-carlo tree search},
+  author={Chaslot, Guillaume MJ-B and Winands, Mark HM and van Den Herik, H Jaap},
+  booktitle={International Conference on Computers and Games},
+  pages={60--71},
+  year={2008},
+  organization={Springer}
+}
